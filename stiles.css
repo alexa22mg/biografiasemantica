@@ -9,16 +9,18 @@ html{
 }
 
 header{
-    background-color:#96ddeb ;
+    background: linear-gradient(#6e6b6b78,#e08d8d58);  
     color: rgb(13, 12, 12);
     bottom:200px;
+    padding:5px;
 }
 nav{
 
-    background-color: #3333331b;
+    background: linear-gradient(#d57b7b79,#706a6a78);  
     color: black;
     display: flex;
-    padding: 20px;
+    padding: 15px;
+    border: black;
 
 }
 nav ul{
@@ -26,20 +28,19 @@ nav ul{
     margin: 0;
     padding: 0;
     list-style:none;
-
+    
 }
 nav ul li a{
     color: black;
     padding:10px ;
     text-decoration: none;
-
 }
 .container{
     display:flex;
     position: static;
 }
 aside{
- background-color: #3333332a;
+background: linear-gradient(#cf54543d,#33333335);  
  padding: 10px;
  width: 25%;
  display: flex;
@@ -53,14 +54,16 @@ aside{
     left: 25px;
     border-radius: 70%;
 }
+
 main{
- padding: 10PX;
+ padding: 10px;
  width: 75%;
 
 }
 footer{
-  background-color: #33333314;
+  background: linear-gradient(#cf54543d,#33333335);     
   position:static;
+  padding: 5px;
 
 }
 footer ul{
@@ -70,11 +73,14 @@ footer ul{
     list-style:none;
 
 }
+.titulo{
+    text-align:center;
+}
 
 article h2{
     text-align: center;
     padding:5px;
-    background-color: #33333325;
+    background: linear-gradient(#e08d8d58,#706a6a78);  
     
 }
 .itau{
