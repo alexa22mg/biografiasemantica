@@ -1,0 +1,261 @@
+body{
+    margin: 0;
+    padding:0;
+    flex-direction: column;
+    min-height:100%;
+}
+html{
+    height: 100%;
+}
+
+header{
+    background-color:#96ddeb ;
+    color: rgb(13, 12, 12);
+    bottom:200px;
+}
+nav{
+
+    background-color: #3333331b;
+    color: black;
+    display: flex;
+    padding: 20px;
+
+}
+nav ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    list-style:none;
+
+}
+nav ul li a{
+    color: black;
+    padding:10px ;
+    text-decoration: none;
+
+}
+.container{
+    display:flex;
+    position: static;
+}
+aside{
+ background-color: #3333332a;
+ padding: 10px;
+ width: 25%;
+ display: flex;
+ flex-direction: column;
+
+
+}
+.yuri{
+    width:300px;
+    position:relative;
+    left: 25px;
+    border-radius: 70%;
+}
+main{
+ padding: 10PX;
+ width: 75%;
+
+}
+footer{
+  background-color: #33333314;
+  position:static;
+
+}
+footer ul{
+    display: flex;
+    margin: 0;
+    padding:0;
+    list-style:none;
+
+}
+
+article h2{
+    text-align: center;
+    padding:5px;
+    background-color: #33333325;
+    
+}
+.itau{
+    position:relative;
+    width: 150PX;
+    left: 900px;
+    bottom:170PX;
+}
+.referen2{
+ position: relative;
+ bottom: 150px ;
+}
+.acueducto{
+    position:relative;
+    width: 150PX;
+    left: 900px;
+    bottom:100PX;
+}
+.referen3{
+ position: relative;
+ bottom: 280px ;
+}
+.ferreteria{
+    position:relative;
+    width: 150PX;
+    left: 900px;
+    bottom:80px;
+}
+.referen4{
+ position: relative;
+ bottom:350px ;
+}
+.milan{
+    position:relative;
+    width: 150PX;
+    left: 900px;
+    bottom:450px;
+}
+.educacion{
+    position: relative;
+    bottom:410px;
+}
+.img1{
+    position:relative;
+    width: 200PX;
+    bottom:70px;
+    top:70;
+
+}
+.img2{
+    position:relative;
+    width: 250PX;
+    bottom:70px;
+
+}
+.img3{
+    position:relative;
+    width: 250PX;
+    bottom:50px;
+
+}
+.img4{
+    position:relative;
+    width: 260PX;
+    bottom:80px;
+
+}
+
+.interes{
+    position: relative;
+    bottom:450px ;
+}
+.im1{
+    position:relative;
+    width: 150PX;
+    top: 70;
+
+}
+.im2{
+    position:relative;
+    width: 150PX;
+    top: 70;
+   
+
+}
+.im3{
+    position:relative;
+    width: 150PX;
+    top: 70;
+
+}
+.im4{
+    position:relative;
+    width: 150PX;
+    top: 70;
+
+}
+
+.im5{
+    position:relative;
+    width: 150PX;
+    top: 70;
+
+}
+
+.im6{
+    position:relative;
+    width: 155PX;
+    top: 70;
+
+}
+.programa{
+    position: relative;
+    width:150px;
+    left: 50px;
+
+}
+.familia{
+    position: relative;
+    width:150px;
+    left: 230px;    
+    bottom:160px;
+    text-align: center;
+}
+.viajes{
+    position: relative;
+    width:500px;
+    left:400px;
+    bottom:320px; 
+}
+.estudio{
+    position: relative;
+    width:500px;
+    left:570px;
+    bottom:480px;
+    alt: 300px;;
+}
+.musica{
+    position: relative;
+    width:500px;
+    left:735px;
+    bottom:650px;
+    alt: 300px;;
+}
+.lectura{
+    position: relative;
+    width:500px;
+    left:900px;
+    bottom:818px;
+    alt: 300px;
+    padding: 0;
+}
+.i1{
+ position: relative;
+ left:300px;
+}
+.i2{
+    width: 200px;
+    position: relative;
+    left: 600px;
+    bottom:170px;;
+   }
+.i3{
+    width: 200px;
+    position: relative;
+    left: 1000px;
+    bottom:335px;
+   }
+.p{
+    position: relative;
+    left:300px;
+}  
+.p1{
+    position: relative;
+    left: 600px;
+    bottom:170px;;
+}   
+.p2{
+    position: relative;
+    left: 880px;
+    bottom:335px;
+}  
+
+
